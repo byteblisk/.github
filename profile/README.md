@@ -1,4 +1,4 @@
-# ByteBlisk
+# byteblisk
 
 Three hosted MCP servers for AI agents, running on [Apify](https://apify.com/byteblisk). Nothing to install: connect
 over Streamable HTTP with your Apify API token, and pay per use. Every tool states its cost, and failed calls are free.
