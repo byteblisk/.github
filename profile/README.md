@@ -5,9 +5,9 @@ over Streamable HTTP with your Apify API token, and pay per use. Every tool stat
 
 | | Server | What your agent gets | Store page |
 |---|---|---|---|
-| <img src="https://raw.githubusercontent.com/ByteBlisk/mcp-servers/main/logos/sitereader.png" width="48"> | **Web Scraper & Crawler for RAG** | Any page or whole site as clean Markdown or JSON, site maps, fields you describe in plain words | [apify.com/byteblisk/sitereader](https://apify.com/byteblisk/sitereader) |
+| <img src="https://raw.githubusercontent.com/ByteBlisk/mcp-servers/main/logos/sitereader.png" width="48"> | **Website to Markdown Crawler & API for RAG** | Any page or whole site as clean Markdown or JSON, site maps, fields you describe in plain words | [apify.com/byteblisk/sitereader](https://apify.com/byteblisk/sitereader) |
 | <img src="https://raw.githubusercontent.com/ByteBlisk/mcp-servers/main/logos/app-reviews.png" width="48"> | **App Store & Google Play Reviews** | Reviews from both stores in one format, complaint themes with real quotes, competitor comparison | [apify.com/byteblisk/app-reviews-insights](https://apify.com/byteblisk/app-reviews-insights) |
-| <img src="https://raw.githubusercontent.com/ByteBlisk/mcp-servers/main/logos/toolkit.png" width="48"> | **Google Play Scraper & SERP Rank Checker** | Google Play apps, reviews and search, top-100 rank on Google | [apify.com/byteblisk/google-play-search-toolkit](https://apify.com/byteblisk/google-play-search-toolkit) |
+| <img src="https://raw.githubusercontent.com/ByteBlisk/mcp-servers/main/logos/toolkit.png" width="48"> | **Google Play Scraper API & SERP Rank Checker** | Google Play apps, reviews and search, top-100 rank on Google | [apify.com/byteblisk/google-play-search-toolkit](https://apify.com/byteblisk/google-play-search-toolkit) |
 
 ## Connect
 
